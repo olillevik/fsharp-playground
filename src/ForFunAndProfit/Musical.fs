@@ -13,8 +13,10 @@ let alphabet = [ "A"; "A#"; "B"; "C"; "C#"; "D"; "D#"; "E"; "F"; "F#"; "G"; "G#"
 // The minor pentatonic scale consists of the 1st, 4th, 6th, 8th and 11th note in the musical alphabet.
 // Let's play it again piano man.
 
-// OK, enough scales. Lets make a chord. Create a function that takes a key (the first note in a scale) and creates the major chord.
-// A major chord consists of the 1st, 3rd and 5th note in the corresponding major scale. A C has the notes C-E-G
+// OK, enough scales. Lets make a chord.
+// A major chord consists of the 1st, 3rd and 5th note in the scale. A C major has the notes C-E-G
 // Print any given major chord
+
+// Repeat the above for minor chords. Minor chords consist of the 1st, minor third and 5th note in the scale.
 
 // Given a sequence of chords, print the scale(s) that has all the chords in it.
